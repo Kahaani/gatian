@@ -15,6 +15,29 @@
 
 其中[t]和[tʰ]是“齿龈塞音”，[n]是“齿龈鼻音”，[l]是“齿龈边音”。发“边音”时，舌头抬起成阻，气流从两边流出，因此得名。
 
+<table style="width:1px; white-space:nowrap; text-align:center;">
+  <tr>
+    <td></td>
+    <td>双唇</td>
+    <td>齿/龈</td>
+  </tr>
+  <tr>
+    <td>塞音</td>
+    <td>b [p]<br>p [pʰ]<br>bh [b]</td>
+    <td>d [t]<br>t [tʰ]<br>　</td>
+  </tr>
+  <tr>
+    <td>鼻音</td>
+    <td>m [m]</td>
+    <td>n [n]</td>
+  </tr>
+  <tr>
+    <td>边音</td>
+    <td></td>
+    <td>l [l]</td>
+  </tr>
+</table>
+
 语音具有系统性。上一节关于“双唇音”的介绍，可以照搬到“齿龈音”。塞音[t]、[tʰ]和[p]、[pʰ]对应，鼻音[n]和[m]对应，潮汕话中没有浊塞音[d]，但有边音[l]。
 
 练习一：d [t]——t [tʰ]——n [n]——l [l]
