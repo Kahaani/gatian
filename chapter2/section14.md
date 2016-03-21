@@ -41,8 +41,6 @@
 
 > 江山如画，一时多少豪**杰**。
 
-> 　
-
 > 遥想公瑾当年，小乔初嫁了，雄姿英**发**。
 
 > 羽扇纶巾，谈笑间，樯橹灰飞烟**灭**。
@@ -221,7 +219,9 @@
 胎to¹——托toh⁴——桃to⁵——驼toh⁸
 靴hia¹——歇hiah⁴——霞hia⁵——役hiah⁸
 腰ie¹——约ieh⁴——窑ie⁵——药ieh⁸（汕头音的韵母是io/ioh）
+```
 
+```
 班bang¹——北bak⁴——房bang⁵——缚bak⁸
 餐cang¹——察cak⁴——田cang⁵——贼cak⁸
 丰hong¹——福hok⁴——鸿hong⁵——服hok⁸
@@ -233,7 +233,9 @@
 君gung¹——骨guk⁴——裙gung⁵——滑guk⁸
 尊zung¹——卒zuk⁴——船zung⁵——糯zuk⁸
 番hueng¹——发huek⁴——环hueng⁵——罚huek⁸（汕头音的韵母是uang/uak）
+```
 
+```
 森siem¹——涩siep⁴——蝉siem⁵——涉siep⁸（汕头音的韵母是iam/iap）
 ```
 
@@ -247,7 +249,9 @@
 止zi²——接zih⁴——舌zih⁸
 者zia²——迹ziah⁴——食ziah⁸
 少zie²——借zieh⁴——石zieh⁸（汕头音的韵母是io/ioh）
+```
 
+```
 桶tang²——踢tak⁴——读tak⁸
 总zong²——足zok⁴——族zok⁸
 顶deng²——德dek⁴——特dek⁸
@@ -255,7 +259,9 @@
 滚gung²——骨guk⁴——滑guk⁸
 展dieng²——哲diek⁴——跌diek⁸（汕头音的韵母是iang/iak）
 反hueng²——发huek⁴——罚huek⁸（汕头音的韵母是uang/uak）
+```
 
+```
 斩zam²——汁zap⁴——十zap⁸
 闪siem²——涩siep⁴——涉siep⁸（汕头音的韵母是iam/iap）
 锦gim²——急gip⁴——及gip⁸
