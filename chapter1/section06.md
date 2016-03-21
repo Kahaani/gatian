@@ -94,7 +94,7 @@
 
 插图来源：
 
-> 〔图1〕A. M. Fielde. A Pronouncing and Defining Dictionary of the Swatow Dialect. Shanghai: American Presbyterian Mission Press. 1883.
+> 〔图1〕A. M. Fielde. *A Pronouncing and Defining Dictionary of the Swatow Dialect.* Shanghai: American Presbyterian Mission Press. 1883.
 
 > 〔图2〕李新魁：《新编潮汕方言十八音》，广东人民出版社1979年版，第6~9页。
 

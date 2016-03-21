@@ -192,10 +192,10 @@
     <td>喉</td>
   </tr>
   <tr>
-    <td>[p]<br>[pʰ]<br>[m]/[b]<br>　</td>
-    <td>[t]<br>[tʰ]<br>[n]/[l]<br>　</td>
+    <td>[p]<br>[pʰ]<br>[m] / [b]<br>　</td>
+    <td>[t]<br>[tʰ]<br>[n] / [l]<br>　</td>
     <td>[ts]<br>[tsʰ]<br>　<br>[s]</td>
-    <td>[k]<br>[kʰ]<br>[ŋ]/[g]<br>　</td>
+    <td>[k]<br>[kʰ]<br>[ŋ] / [g]<br>　</td>
     <td>∅<br>　<br>　<br>[h]</td>
   </tr>
 </table>
