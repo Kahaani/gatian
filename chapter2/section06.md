@@ -53,36 +53,36 @@
 
 ## 发音练习
 
-练习一：k [kʰ]——g [k]——gh [g]——ng [ŋ]
+练习一：k [kʰ] —— g [k] —— gh [g] —— ng [ŋ]
 
 ```
-期ki⁵——棋gi⁵——疑ghi⁵——宜ngi⁵
+期 ki⁵ —— 棋 gi⁵ —— 疑 ghi⁵ —— 宜 ngi⁵
 ```
 
-练习二：k [kʰ]——g [k]——ng [ŋ]
+练习二：k [kʰ] —— g [k] —— ng [ŋ]
 
 ```
-起ki²——己gi²——议ngi²
-气ki³——记gi³——谊ngi³
-苦kou²——古gou²——午ngou²
-溃kui⁶——跪gui⁶——伪ngui⁶
-款kueng²——管gueng²——玩ngueng²（汕头音的韵母是uang）
+起 ki² —— 己 gi² —— 议 ngi²
+气 ki³ —— 记 gi³ —— 谊 ngi³
+苦 kou² —— 古 gou² —— 午 ngou²
+溃 kui⁶ —— 跪 gui⁶ —— 伪 ngui⁶
+款 kueng² —— 管 gueng² —— 玩 ngueng²（汕头音的韵母是uang）
 ```
 
-练习三：g [k]——gh [g]
+练习三：g [k] —— gh [g]
 
 ```
-举gv²——语ghv²
-据gv⁶——御ghv⁶
-易goi⁷——艺ghoi⁷
-糊gou⁵——吴ghou⁵
-局gek⁸——玉ghek⁸
+举 gv² —— 语 ghv²
+据 gv⁶ —— 御 ghv⁶
+易 goi⁷ —— 艺 ghoi⁷
+糊 gou⁵ —— 吴 ghou⁵
+局 gek⁸ —— 玉 ghek⁸
 ```
 
-练习四：gh [g]——ng [ŋ]
+练习四：gh [g] —— ng [ŋ]
 
 ```
-鹅gho⁵——俄ngo⁵
+鹅 gho⁵ —— 俄 ngo⁵
 ```
 
 韵母gh的辖字很少，字典里只有四五十个，即使加上口语中有、但字典无收的情况，也不会很多。其中有一些常用字，罗列如下：疑(ghi⁵)、牛(ghu⁵)、牙(ghe⁵)、鹅(gho⁵)、饿(gho⁷)、语(ghv²)、碍(ghai⁷)、乐(ghaoh⁸)、艺(ghoi⁷)、吴(ghou⁵)、外(ghua⁷)、魏(ghui⁷)、月(ghueh⁸)、玉(ghek⁸)。
@@ -120,15 +120,15 @@
   </tr>
 </table>
 
-练习五：m [m]——n [n]——ng [ŋ]
+练习五：m [m] —— n [n] —— ng [ŋ]
 
 ```
-棉mi⁵——泥ni⁵——宜ngi⁵
-毛mo⁵——娜no⁵——俄ngo⁵
-幕mo⁶——二no⁶——遇ngo⁶
-迈mai⁶——耐nai⁶——岸ngai⁶
-貌mau⁶——闹nau⁶——傲ngau⁶
-闽mang⁵——人nang⁵——言ngang⁵
+棉 mi⁵ —— 泥 ni⁵ —— 宜 ngi⁵
+毛 mo⁵ —— 娜 no⁵ —— 俄 ngo⁵
+幕 mo⁶ —— 二 no⁶ —— 遇 ngo⁶
+迈 mai⁶ —— 耐 nai⁶ —— 岸 ngai⁶
+貌 mau⁶ —— 闹 nau⁶ —— 傲 ngau⁶
+闽 mang⁵ —— 人 nang⁵ —— 言 ngang⁵
 ```
 
 ## 普通话的 h 和潮汕话的 h

@@ -226,20 +226,20 @@
 
 下面的例子按老派潮州话注音，其他地方的读音可以对照上表查出。
 
-练习一：im [im]——ing [iŋ]
+练习一：im [im] —— ing [iŋ]
 
 ```
-音im¹——因ing¹
-饮im²——引ing²
-沉dim⁵——尘ding⁵
-林lim⁵——邻ling⁵
-锦gim²——紧ging²
-钦kim¹——轻king¹
-熊him⁵——晕hing⁵
-浸zim³——进zing³
-深cim¹——亲cing¹
-心sim¹——新sing¹
-任rim⁷——认ring⁷
+音 im¹ —— 因 ing¹
+饮 im² —— 引 ing²
+沉 dim⁵ —— 尘 ding⁵
+林 lim⁵ —— 邻 ling⁵
+锦 gim² —— 紧 ging²
+钦 kim¹ —— 轻 king¹
+熊 him⁵ —— 晕 hing⁵
+浸 zim³ —— 进 zing³
+深 cim¹ —— 亲 cing¹
+心 sim¹ —— 新 sing¹
+任 rim⁷ —— 认 ring⁷
 ```
 
 （2）**韵母 am 的消失**
@@ -266,20 +266,20 @@
   </tr>
 </table>
 
-练习二：am [am]——ang [aŋ]
+练习二：am [am] —— ang [aŋ]
 
 ```
-庵am¹——安ang¹
-暗am³——按ang³
-耽dam¹——冬dang¹
-探tam³——赚tang³
-感gam²——讲gang²
-堪kam¹——康kang¹
-癌ngam⁵——言ngang⁵
-陷ham⁷——巷hang⁷
-站zam⁶——藏zang⁶（西藏）
-参cam¹——餐cang¹（参加）
-三sam¹——双sang¹（三国演义）
+庵 am¹ —— 安 ang¹
+暗 am³ —— 按 ang³
+耽 dam¹ —— 冬 dang¹
+探 tam³ —— 赚 tang³
+感 gam² —— 讲 gang²
+堪 kam¹ —— 康 kang¹
+癌 ngam⁵ —— 言 ngang⁵
+陷 ham⁷ —— 巷 hang⁷
+站 zam⁶ —— 藏 zang⁶（西藏）
+参 cam¹ —— 餐 cang¹（参加）
+三 sam¹ —— 双 sang¹（三国演义）
 ```
 
 （3）**韵母 iam 的消失**
@@ -330,19 +330,19 @@
   </tr>
 </table>
 
-练习三：iem [iem]——ieng [ieŋ]——iang [iaŋ]
+练习三：iem [iem] —— ieng [ieŋ] —— iang [iaŋ]
 
 ```
-腌iem¹——渊ieng¹——央iang¹
-掩iem²——远ieng²——养iang²
-盐iem⁵——媛ieng⁵——阳iang⁵
-兼giem¹——捐gieng¹——疆giang¹
-险hiem²——显hieng²——享hiang²
-尖ziem¹——煎zieng¹——章ziang¹
-占ziem³——战zieng³——奖ziang³
-签ciem¹——迁cieng¹——昌ciang¹
-参siem¹——仙sieng¹——商siang¹（人参）
-闪siem²——癣sieng²——想siang²（思想）
+腌 iem¹ —— 渊 ieng¹ —— 央 iang¹
+掩 iem² —— 远 ieng² —— 养 iang²
+盐 iem⁵ —— 媛 ieng⁵ —— 阳 iang⁵
+兼 giem¹ —— 捐 gieng¹ —— 疆 giang¹
+险 hiem² —— 显 hieng² —— 享 hiang²
+尖 ziem¹ —— 煎 zieng¹ —— 章 ziang¹
+占 ziem³ —— 战 zieng³ —— 奖 ziang³
+签 ciem¹ —— 迁 cieng¹ —— 昌 ciang¹
+参 siem¹ —— 仙 sieng¹ —— 商 siang¹（人参）
+闪 siem² —— 癣 sieng² —— 想 siang²（思想）
 ```
 
 （4）**韵母 uam 的消失**
@@ -394,12 +394,12 @@
   </tr>
 </table>
 
-练习四：uam [uam]——ueng [ueŋ]——uang [uaŋ]
+练习四：uam [uam] —— ueng [ueŋ] —— uang [uaŋ]
 
 ```
-泛huam³——唤hueng³——放huang³
-凡huam⁵——环hueng⁵——防huang⁵
-犯huam⁶——饭hueng⁶
+泛 huam³ —— 唤 hueng³ —— 放 huang³
+凡 huam⁵ —— 环 hueng⁵ —— 防 huang⁵
+犯 huam⁶ —— 饭 hueng⁶
 ```
 
 在潮语拼音输入法中，根据韵尾 [m] 的消失去向，对潮州、汕头两个版本加入了模糊音规则，无论用户是老派口音还是新派口音、能否分辨韵尾 [m] 和 [ŋ] ，都不影响使用。
@@ -412,44 +412,44 @@
 
 （1）前面介绍过单元音 e 和 v 的问题。类似地，鼻尾韵 eng 和 vng 的读法，也和汉语拼音有所不同。
 
-练习五：e [e]——eng [eŋ]——v [ɤ]——vng [ɤŋ]
+练习五：e [e] —— eng [eŋ] —— v [ɤ] —— vng [ɤŋ]
 
 ```
-茶de⁵——亭deng⁵——除dv⁵——堂dvng⁵
-家ge¹——宫geng¹——居gv¹——缸gvng¹
-假ge²——景geng²——举gv²——卷gvng²
-嫁ge³——敬geng³——锯gv³——钢gvng³
-斋ze¹——增zeng¹——书zv¹——庄zvng¹
-债ze³——政zeng³——滋zv³——葬zvng³
-叉ce¹——清ceng¹——渍cv¹——村cvng¹
-厕ce³——倩ceng³——次cv³——刺cvng³
-查ce⁵——情ceng⁵——徐cv⁵——床cvng⁵
-纱se¹——升seng¹——思sv¹——桑svng¹
+茶 de⁵ —— 亭 deng⁵ —— 除 dv⁵ —— 堂 dvng⁵
+家 ge¹ —— 宫 geng¹ —— 居 gv¹ —— 缸 gvng¹
+假 ge² —— 景 geng² —— 举 gv² —— 卷 gvng²
+嫁 ge³ —— 敬 geng³ —— 锯 gv³ —— 钢 gvng³
+斋 ze¹ —— 增 zeng¹ —— 书 zv¹ —— 庄 zvng¹
+债 ze³ —— 政 zeng³ —— 滋 zv³ —— 葬 zvng³
+叉 ce¹ —— 清 ceng¹ —— 渍 cv¹ —— 村 cvng¹
+厕 ce³ —— 倩 ceng³ —— 次 cv³ —— 刺 cvng³
+查 ce⁵ —— 情 ceng⁵ —— 徐 cv⁵ —— 床 cvng⁵
+纱 se¹ —— 升 seng¹ —— 思 sv¹ —— 桑 svng¹
 ```
 
 （2）现代潮汕话的 ung，是从19世纪的 un 演变而来，所辖的字在普通话里的韵母是 un、ün、en，都是“前鼻音”。但汉语拼音中的 un 实际上是 uen 的缩写，u 和 n 之间有过渡音 [ə]，和潮汕话的 ung 有明显的不同。
 
 元音 u 和 o 位于元音图的右上角，都是后、高、圆唇的元音。现代潮汕话有 ung 和 ong 的对立，这是普通话所没有的。
 
-练习六：u [u]——ung [uŋ]——o [o]——ong [oŋ]
+练习六：u [u] —— ung [uŋ] —— o [o] —— ong [oŋ]
 
 ```
-污u¹——温ung¹——窝o¹——翁ong¹（渔翁）
-蛛du¹——敦dung¹——刀do¹——忠dong¹
-赌du²——盾dung²——短do²——懂dong²
-途tu⁵——豚tung⁵——桃to⁵——童tong⁵
-庐lu⁵——轮lung⁵——罗lo⁵——隆long⁵
-龟gu¹——军gung¹——歌go¹——公gong¹
-固gu³——棍gung³——块go³——贡gong³
-区ku¹——昆kung¹——戈ko¹——空kong¹
-附hu³——训hung³——耗ho³——讽hong³
-符hu⁵——云hung⁵——河ho⁵——鸿hong⁵
-腐hu⁷——份hung⁷——号ho⁷——轰hong⁷（豆腐）
-主zu²——准zung²——左zo²——总zong²
-注zu³——俊zung³——做zo³——纵zong³
-趋cu¹——春cung¹——初co¹——充cong¹
-需su¹——孙sung¹——蔬so¹——松song¹（子孙、轻松）
-暑su²——损sung²——锁so²——耸song²
+污 u¹ —— 温 ung¹ —— 窝 o¹ —— 翁 ong¹（渔翁）
+蛛 du¹ —— 敦 dung¹ —— 刀 do¹ —— 忠 dong¹
+赌 du² —— 盾 dung² —— 短 do² —— 懂 dong²
+途 tu⁵ —— 豚 tung⁵ —— 桃 to⁵ —— 童 tong⁵
+庐 lu⁵ —— 轮 lung⁵ —— 罗 lo⁵ —— 隆 long⁵
+龟 gu¹ —— 军 gung¹ —— 歌 go¹ —— 公 gong¹
+固 gu³ —— 棍 gung³ —— 块 go³ —— 贡 gong³
+区 ku¹ —— 昆 kung¹ —— 戈 ko¹ —— 空 kong¹
+附 hu³ —— 训 hung³ —— 耗 ho³ —— 讽 hong³
+符 hu⁵ —— 云 hung⁵ —— 河 ho⁵ —— 鸿 hong⁵
+腐 hu⁷ —— 份 hung⁷ —— 号 ho⁷ —— 轰 hong⁷（豆腐）
+主 zu² —— 准 zung² —— 左 zo² —— 总 zong²
+注 zu³ —— 俊 zung³ —— 做 zo³ —— 纵 zong³
+趋 cu¹ —— 春 cung¹ —— 初 co¹ —— 充 cong¹
+需 su¹ —— 孙 sung¹ —— 蔬 so¹ —— 松 song¹（子孙、轻松）
+暑 su² —— 损 sung² —— 锁 so² —— 耸 song²
 ```
 
 <br>

@@ -35,6 +35,7 @@
 （1）**英语：只有清浊对立，没有送气对立**
 
 比如英语中这三个词：
+
 ```
 buy [baɪ] 购买
 pie [pʰaɪ] 馅饼
@@ -47,19 +48,19 @@ spy [spaɪ] 间谍
 
 ```
 # 塞音
-[t]——[d]
-[k]——[g]
+[t] —— [d]
+[k] —— [g]
 
 # 塞擦音
-[ts]——[dz]
-[tʃ]——[dʒ]
-[tr]——[dr]
+[ts] —— [dz]
+[tʃ] —— [dʒ]
+[tr] —— [dr]
 
 # 擦音
-[f]——[v]
-[θ]——[ð]
-[s]——[z]
-[ʃ]——[ʒ]
+[f] —— [v]
+[θ] —— [ð]
+[s] —— [z]
+[ʃ] —— [ʒ]
 ```
 
 （2）**汉语普通话：没有浊塞音，只有送气对立**
@@ -75,13 +76,13 @@ spy [spaɪ] 间谍
 
 ```
 # 塞音
-d [t]——t [tʰ]
-g [k]——k [kʰ]
+d [t] —— t [tʰ]
+g [k] —— k [kʰ]
 
 # 塞擦音
-z [ts]——c [tsʰ]
-j [tɕ]——q [tɕʰ]
-zh [tʂ]——ch [tʂʰ]
+z [ts] —— c [tsʰ]
+j [tɕ] —— q [tɕʰ]
+zh [tʂ] —— ch [tʂʰ]
 
 # 擦音本身就有气流送出，一般没有送气与否的区别
 ```
@@ -156,54 +157,54 @@ zh [tʂ]——ch [tʂʰ]
 
 对于潮汕人来说，我们在习得母语的时候，就已经获得了辨别三类塞音的能力。请用潮汕话读下面的例子，感受三者的差别和联系。
 
-练习一：p [pʰ]——b [p]——bh [b]
+练习一：p [pʰ] —— b [p] —— bh [b]
 
 ```
-丕pi²——彼bi²——米bhi²
-跑pau²——堡bau²——卯bhau²
-普pou²——补bou²——亩bhou²
-皮pue⁵——赔bue⁵——煤bhue⁵
-拨puah⁴——钵buah⁴——抹bhuah⁴
-瀑pak⁸——缚bak⁸——木bhak⁸
+丕 pi² —— 彼 bi² —— 米 bhi²
+跑 pau² —— 堡 bau² —— 卯 bhau²
+普 pou² —— 补 bou² —— 亩 bhou²
+皮 pue⁵ —— 赔 bue⁵ —— 煤 bhue⁵
+拨 puah⁴ —— 钵 buah⁴ —— 抹 bhuah⁴
+瀑 pak⁸ —— 缚 bak⁸ —— 木 bhak⁸
 ```
 
-练习二：b [p]——bh [b]
+练习二：b [p] —— bh [b]
 
 ```
-避bi⁷——味bhi⁷
-捕bu⁶——务bhu⁶
-保bo²——母bho²
-牌bai⁵——眉bhai⁵
-步bou⁷——戊bhou⁷
-焙bue⁷——未bhue⁷
-白beh⁸——麦bheh⁸
-毕bik⁸——蜜bhik⁸
+避 bi⁷ —— 味 bhi⁷
+捕 bu⁶ —— 务 bhu⁶
+保 bo² —— 母 bho²
+牌 bai⁵ —— 眉 bhai⁵
+步 bou⁷ —— 戊 bhou⁷
+焙 bue⁷ —— 未 bhue⁷
+白 beh⁸ —— 麦 bheh⁸
+毕 bik⁸ —— 蜜 bhik⁸
 ```
 
 ## 浊塞音来源于鼻音
 
 潮汕话的浊塞音[b]是从鼻音[m]分化出来的。读者可以检查本文中[b]的例字，它们在普通话的声母，要么是m，要么是零声母。潮汕话的[b]，有时还带着鼻音成分，在有些书里记作“鼻冠爆音”[ᵐb]。 [ᵐb]可以看成是从[m]演变到[b]的过渡状态。
 
-练习三：bh [b]——m [m]
+练习三：bh [b] —— m [m]
 
 ```
-味bhi⁷——面mi⁷（速食面）
-码bhe²——猛me²
-麦bheh⁸——脉meh⁸
-无bho⁵——摩mo⁵
-眉bhai⁵——埋mai⁵
-磨bhua⁵——麻mua⁵
-尾bhue²——每mue²
-袜bhueh⁸——物mueh⁸
-文bhung⁵——门mung⁵
-木bhak⁸——目mak⁸
-蜜bhik⁸——密mik⁸
+味 bhi⁷ —— 面 mi⁷（速食面）
+码 bhe² —— 猛 me²
+麦 bheh⁸ —— 脉 meh⁸
+无 bho⁵ —— 摩 mo⁵
+眉 bhai⁵ —— 埋 mai⁵
+磨 bhua⁵ —— 麻 mua⁵
+尾 bhue² —— 每 mue²
+袜 bhueh⁸ —— 物 mueh⁸
+文 bhung⁵ —— 门 mung⁵
+木 bhak⁸ —— 目 mak⁸
+蜜 bhik⁸ —— 密 mik⁸
 ```
 
-练习四：p [pʰ]——b [p]——bh [b]——m [m]
+练习四：p [pʰ] —— b [p] —— bh [b] —— m [m]
 
 ```
-瀑pak⁸——缚bak⁸——木bhak⁸——目mak⁸
+瀑 pak⁸ —— 缚 bak⁸ —— 木 bhak⁸ —— 目 mak⁸
 ```
 
 ## 内爆音的发现

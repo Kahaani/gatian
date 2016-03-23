@@ -137,93 +137,93 @@
 
 下面的例子都是以 i 开头的韵母（齐齿呼），每一对字在普通话里同音（尖团合流），但在潮汕话中还保留着声母的对立（尖团不混）。
 
-练习一：z [tɕ]——g [k]
+练习一：z [tɕ] —— g [k]
 
 ```
-际zi³——记gi³
-酒ziu²——九giu²（九霄、九龙）
-就ziu⁶——咎giu⁶
-焦ziou¹——骄giou¹（汕头音的韵母是iau）
-将ziang¹——疆giang¹（将来）
-煎zieng¹——坚gieng¹（汕头音的韵母是iang）
-尖ziem¹——兼giem¹（汕头音的韵母是iam）
-浸zim³——禁gim³
-瘠zik⁴——吉gik⁴
-集zip⁸——及gip⁸
-晶ziaⁿ¹——京giaⁿ¹
-浆zieⁿ¹——姜gieⁿ¹（汕头音的韵母是ioⁿ）
+际 zi³ —— 记 gi³
+酒 ziu² —— 九 giu²（九霄、九龙）
+就 ziu⁶ —— 咎 giu⁶
+焦 ziou¹ —— 骄 giou¹（汕头音的韵母是iau）
+将 ziang¹ —— 疆 giang¹（将来）
+煎 zieng¹ —— 坚 gieng¹（汕头音的韵母是iang）
+尖 ziem¹ —— 兼 giem¹（汕头音的韵母是iam）
+浸 zim³ —— 禁 gim³
+瘠 zik⁴ —— 吉 gik⁴
+集 zip⁸ —— 及 gip⁸
+晶 ziaⁿ¹ —— 京 giaⁿ¹
+浆 zieⁿ¹ —— 姜 gieⁿ¹（汕头音的韵母是ioⁿ）
 ```
 
-练习二：c [tɕʰ]——k [kʰ]
+练习二：c [tɕʰ] —— k [kʰ]
 
 ```
-妻ci¹——欺ki¹
-齐ci⁵——奇ki⁵
-秋ciu¹——丘kiu¹
-囚ciu⁵——求kiu⁵
-嫱ciang⁵——强kiang⁵
-签ciem¹——谦kiem¹（汕头音的韵母是iam）
-雀ciak⁴——却kiak⁴
-枪cieⁿ¹——腔kieⁿ¹（汕头音的韵母是ioⁿ）
+妻 ci¹ —— 欺 ki¹
+齐 ci⁵ —— 奇 ki⁵
+秋 ciu¹ —— 丘 kiu¹
+囚 ciu⁵ —— 求 kiu⁵
+嫱 ciang⁵ —— 强 kiang⁵
+签 ciem¹ —— 谦 kiem¹（汕头音的韵母是iam）
+雀 ciak⁴ —— 却 kiak⁴
+枪 cieⁿ¹ —— 腔 kieⁿ¹（汕头音的韵母是ioⁿ）
 ```
 
-练习三：s [s]——h [h]
+练习三：s [s] —— h [h]
 
 ```
-消siou¹——枭hiou¹（汕头音的韵母是iau）
-小siou²——曉hiou²（汕头音的韵母是iau）
-湘siang¹——香hiang¹
-想siang²——响hiang²（思想）
-相siang³——向hiang³（宰相）
-癬sieng²——显hieng²（汕头音的韵母是iang）
-心sim¹——鑫him¹
-箱sieⁿ¹——乡hieⁿ¹（汕头音的韵母是ioⁿ）
+消 siou¹ —— 枭 hiou¹（汕头音的韵母是iau）
+小 siou² —— 曉 hiou²（汕头音的韵母是iau）
+湘 siang¹ —— 香 hiang¹
+想 siang² —— 响 hiang²（思想）
+相 siang³ —— 向 hiang³（宰相）
+癬 sieng² —— 显 hieng²（汕头音的韵母是iang）
+心 sim¹ —— 鑫 him¹
+箱 sieⁿ¹ —— 乡 hieⁿ¹（汕头音的韵母是ioⁿ）
 ```
 
 ## 发音练习：齿龈音和腭前音
 
 潮汕话中，声母 z、c、s 在齐齿呼韵母之前腭化，在开口呼、合口呼韵母之前保持不变。下面的例子用于对比腭化与否的差异，每一行中随着韵母的不同，同一个声母的音值也随之变化，发生腭化的用星号(*)标记。
 
-练习四：a——ia——ua（开口呼——齐齿呼——合口呼）
+练习四：a —— ia —— ua（开口呼——齐齿呼——合口呼）
 
 ```
-楂za¹——遮*zia¹——抓zua¹
-早za²——者*zia²——纸zua²
+楂 za¹ —— 遮 *zia¹ —— 抓 zua¹
+早 za² —— 者 *zia² —— 纸 zua²
 ```
 
-练习五：ang——iang——uang
+练习五：ang —— iang —— uang
 
 ```
-棕zang¹——漳*ziang¹——装zuang¹
-藏zang⁶——杖*ziang⁶——撞zuang⁶（西藏）
-灿cang³——唱*ciang³——闯cuang³
-删sang¹——商*siang¹——宣suang¹
+棕 zang¹ —— 漳 *ziang¹ —— 装 zuang¹
+藏 zang⁶ —— 杖 *ziang⁶ —— 撞 zuang⁶（西藏）
+灿 cang³ —— 唱 *ciang³ —— 闯 cuang³
+删 sang¹ —— 商 *siang¹ —— 宣 suang¹
 ```
 
-练习六：ak——iak——uak
+练习六：ak —— iak —— uak
 
 ```
-萨sak⁴——屑*siak⁴——朔suak⁴
+萨 sak⁴ —— 屑 *siak⁴ —— 朔 suak⁴
 ```
 
-练习七：aⁿ——iaⁿ——uaⁿ
+练习七：aⁿ —— iaⁿ —— uaⁿ
 
 ```
-三saⁿ¹——声*siaⁿ¹——山suaⁿ¹
+三 saⁿ¹ —— 声 *siaⁿ¹ —— 山 suaⁿ¹
 ```
 
 ## 普通话的 r 和潮汕话的 r
 
 潮汕话的[dz]和普通话的 r，辖字大致对应，因此潮语拼音设计成 r，和汉语拼音保持对应。不过，普通话的 r 是卷舌近音[ɻ]，潮汕话的 r 是齿龈塞擦音[dz]。和[ts]、[tsʰ]、[s]一样，[dz]在[i]之前会腭化成[dʑ]。
 
-练习八：z [ts]——c [tsʰ]——s [s]——r [dz]
+练习八：z [ts] —— c [tsʰ] —— s [s] —— r [dz]
 
 ```
-子zv2——此cv2——史sv2——耳rv2
-薯zv5——徐cv5——词sv5——而rv5
-主zu2——取cu2——暑su2——乳ru2
-准zung2——蠢cung2——损sung2——允rung2
-长ziang2——厂ciang2——想siang2——嚷riang2（市长、县长。这一行的声母腭化）
+子 zv2 —— 此 cv2 —— 史 sv2 —— 耳 rv2
+薯 zv5 —— 徐 cv5 —— 词 sv5 —— 而 rv5
+主 zu2 —— 取 cu2 —— 暑 su2 —— 乳 ru2
+准 zung2 —— 蠢 cung2 —— 损 sung2 —— 允 rung2
+长 ziang2 —— 厂 ciang2 —— 想 siang2 —— 嚷 riang2（市长、县长。这一行的声母腭化）
 ```
 
 在实际口语中，塞擦音[dz]有时会读成擦音[z]，有些书就把这个声母记作[z]。不同的记法会影响音系上的处理：如果记作塞擦音[dz]，则和[ts]、[tsʰ]构成清不送气、清送气、浊的对立；如果记作擦音[z]，则和[s]构成清浊对立。

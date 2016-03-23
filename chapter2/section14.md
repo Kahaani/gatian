@@ -213,120 +213,120 @@
 
 从音高上看，阴入 [2] 和阴平 [33] 相近，阳入 [5] 和阳平 [55] 相仿；但在时长上，入声比其他声调短促。通过平声和入声的对比，可以体会这一特征。
 
-练习一：阴平[33]——阴入[2]——阳平[55]——阳入[5]
+练习一：阴平 [33] ——阴入 [2] ——阳平 [55] ——阳入 [5]
 
 ```
-胎to¹——托toh⁴——桃to⁵——驼toh⁸
-靴hia¹——歇hiah⁴——霞hia⁵——役hiah⁸
-腰ie¹——约ieh⁴——窑ie⁵——药ieh⁸（汕头音的韵母是io/ioh）
-```
-
-```
-班bang¹——北bak⁴——房bang⁵——缚bak⁸
-餐cang¹——察cak⁴——田cang⁵——贼cak⁸
-丰hong¹——福hok⁴——鸿hong⁵——服hok⁸
-鬆song¹——速sok⁴——松song⁵——俗sok⁸（“鬆”和“松”原本是两个字，“鬆”用于“鬆紧”、“轻鬆”等词，“松”用于“松树”、“古松”等词，简化后合并成同一个字）
-登deng¹——德dek⁴——亭deng⁵——敌dek⁸
-升seng¹——息sek⁴——诚seng⁵——熟sek⁸
-因ing¹——乙ik⁴——沿ing⁵——逸ik⁸
-身sing¹——室sik⁴——神sing⁵——实sik⁸
-君gung¹——骨guk⁴——裙gung⁵——滑guk⁸
-尊zung¹——卒zuk⁴——船zung⁵——糯zuk⁸
-番hueng¹——发huek⁴——环hueng⁵——罚huek⁸（汕头音的韵母是uang/uak）
+胎 to¹ —— 托 toh⁴ —— 桃 to⁵ —— 驼 toh⁸
+靴 hia¹ —— 歇 hiah⁴ —— 霞 hia⁵ —— 役 hiah⁸
+腰 ie¹ —— 约 ieh⁴ —— 窑 ie⁵ —— 药 ieh⁸（汕头音的韵母是io/ioh）
 ```
 
 ```
-森siem¹——涩siep⁴——蝉siem⁵——涉siep⁸（汕头音的韵母是iam/iap）
+班 bang¹ —— 北 bak⁴ —— 房 bang⁵ —— 缚 bak⁸
+餐 cang¹ —— 察 cak⁴ —— 田 cang⁵ —— 贼 cak⁸
+丰 hong¹ —— 福 hok⁴ —— 鸿 hong⁵ —— 服 hok⁸
+鬆 song¹ —— 速 sok⁴ —— 松 song⁵ —— 俗 sok⁸（“鬆”和“松”原本是两个字，“鬆”用于“鬆紧”、“轻鬆”等词，“松”用于“松树”、“古松”等词，简化后合并成同一个字）
+登 deng¹ —— 德 dek⁴ —— 亭 deng⁵ —— 敌 dek⁸
+升 seng¹ —— 息 sek⁴ —— 诚 seng⁵ —— 熟 sek⁸
+因 ing¹ —— 乙 ik⁴ —— 沿 ing⁵ —— 逸 ik⁸
+身 sing¹ —— 室 sik⁴ —— 神 sing⁵ —— 实 sik⁸
+君 gung¹ —— 骨 guk⁴ —— 裙 gung⁵ —— 滑 guk⁸
+尊 zung¹ —— 卒 zuk⁴ —— 船 zung⁵ —— 糯 zuk⁸
+番 hueng¹ —— 发 huek⁴ —— 环 hueng⁵ —— 罚 huek⁸（汕头音的韵母是uang/uak）
+```
+
+```
+森 siem¹ —— 涩 siep⁴ —— 蝉 siem⁵ —— 涉 siep⁸（汕头音的韵母是iam/iap）
 ```
 
 阴上 [53] 是降调，降调往往偏短，但与入声仍有区别，试比较之。
 
-练习二：阴上[53]——阴入[2]——阳入[5]
+练习二：阴上 [53] ——阴入 [2] ——阳入 [5]
 
 ```
-打da²——搭dah⁴——踏dah⁸
-讨to²——托toh⁴——驼toh⁸
-止zi²——接zih⁴——舌zih⁸
-者zia²——迹ziah⁴——食ziah⁸
-少zie²——借zieh⁴——石zieh⁸（汕头音的韵母是io/ioh）
-```
-
-```
-桶tang²——踢tak⁴——读tak⁸
-总zong²——足zok⁴——族zok⁸
-顶deng²——德dek⁴——特dek⁸
-品bing²——必bik⁴——毕bik⁸
-滚gung²——骨guk⁴——滑guk⁸
-展dieng²——哲diek⁴——跌diek⁸（汕头音的韵母是iang/iak）
-反hueng²——发huek⁴——罚huek⁸（汕头音的韵母是uang/uak）
+打 da² —— 搭 dah⁴ —— 踏 dah⁸
+讨 to² —— 托 toh⁴ —— 驼 toh⁸
+止 zi² —— 接 zih⁴ —— 舌 zih⁸
+者 zia² —— 迹 ziah⁴ —— 食 ziah⁸
+少 zie² —— 借 zieh⁴ —— 石 zieh⁸（汕头音的韵母是io/ioh）
 ```
 
 ```
-斩zam²——汁zap⁴——十zap⁸
-闪siem²——涩siep⁴——涉siep⁸（汕头音的韵母是iam/iap）
-锦gim²——急gip⁴——及gip⁸
-枕zim²——执zip⁴——集zip⁸
-审sim²——湿sip⁴——习sip⁸
+桶 tang² —— 踢 tak⁴ —— 读 tak⁸
+总 zong² —— 足 zok⁴ —— 族 zok⁸
+顶 deng² —— 德 dek⁴ —— 特 dek⁸
+品 bing² —— 必 bik⁴ —— 毕 bik⁸
+滚 gung² —— 骨 guk⁴ —— 滑 guk⁸
+展 dieng² —— 哲 diek⁴ —— 跌 diek⁸（汕头音的韵母是iang/iak）
+反 hueng² —— 发 huek⁴ —— 罚 huek⁸（汕头音的韵母是uang/uak）
+```
+
+```
+斩 zam² —— 汁 zap⁴ —— 十 zap⁸
+闪 siem² —— 涩 siep⁴ —— 涉 siep⁸（汕头音的韵母是iam/iap）
+锦 gim² —— 急 gip⁴ —— 及 gip⁸
+枕 zim² —— 执 zip⁴ —— 集 zip⁸
+审 sim² —— 湿 sip⁴ —— 习 sip⁸
 ```
 
 下面对比不同的塞音尾。三种塞音尾的成阻部位不同：韵尾 [p] 有双唇闭合的动作，很容易辨认；韵尾 [k] 的成阻部位在软腭，即口腔后部；韵尾 [ʔ] 的成阻部位更加靠后，在喉头。在不同的韵尾之前，主元音的音质也有明显的差异。
 
-练习三：a [a]——ah [aʔ]——ak [ak]——ap [ap]
+练习三：a [a] —— ah [aʔ] —— ak [ak] —— ap [ap]
 
 ```
-胶ga¹——甲gah⁴——各gak⁴——鸽gap⁴
-楂za¹——⬜——作zak⁴——汁zap⁴（工作）
-阿a¹——鸭ah⁴——恶ak⁴
-他ta¹——塔tah⁴——踢tak⁴
-差ca¹——插cah⁴——察cak⁴（相差）
-禾da⁵——踏dah⁸——达dak⁸
+胶 ga¹ —— 甲 gah⁴ —— 各 gak⁴ —— 鸽 gap⁴
+楂 za¹ —— ⬜ —— 作 zak⁴ —— 汁 zap⁴（工作）
+阿 a¹ —— 鸭 ah⁴ —— 恶 ak⁴
+他 ta¹ —— 塔 tah⁴ —— 踢 tak⁴
+差 ca¹ —— 插 cah⁴ —— 察 cak⁴（相差）
+禾 da⁵ —— 踏 dah⁸ —— 达 dak⁸
 ```
 
-练习四：i [i]——ih [iʔ]——ik [ik]——ip [ip]
+练习四：i [i] —— ih [iʔ] —— ik [ik] —— ip [ip]
 
 ```
-基gi¹——砌gih⁴——吉gik⁴——急gip⁴
-司si¹——薛sih⁴——失sik⁴——湿sip⁴
-时si⁵——蚀sih⁸——实sik⁸——习sip⁸
-⬜——接zih⁴——脊zik⁴——执zip⁴
-儿ri¹——⬜——日rik⁸——入rip⁸
-低di¹——滴dih⁴——得dik⁴
-池di⁵——碟dih⁸——直dik⁸
+基 gi¹ —— 砌 gih⁴ —— 吉 gik⁴ —— 急 gip⁴
+司 si¹ —— 薛 sih⁴ —— 失 sik⁴ —— 湿 sip⁴
+时 si⁵ —— 蚀 sih⁸ —— 实 sik⁸ —— 习 sip⁸
+⬜ —— 接 zih⁴ —— 脊 zik⁴ —— 执 zip⁴
+儿 ri¹ —— ⬜ —— 日 rik⁸ —— 入 rip⁸
+低 di¹ —— 滴 dih⁴ —— 得 dik⁴
+池 di⁵ —— 碟 dih⁸ —— 直 dik⁸
 ```
 
-练习五：u [u]——uh [uʔ]——uk [uk]
+练习五：u [u] —— uh [uʔ] —— uk [uk]
 
 ```
-区ku¹——窟kuh⁴——屈kuk⁴
+区 ku¹ —— 窟 kuh⁴ —— 屈 kuk⁴
 ```
 
-练习六：e [e]——eh [eʔ]——ek [ek]
+练习六：e [e] —— eh [eʔ] —— ek [ek]
 
 ```
-家ge¹——格geh⁴——革gek⁴
-斋ze¹——绩zeh⁴——则zek⁴
-差ce¹——册ceh⁴——侧cek⁴
-⬜——百beh⁴——逼bek⁴
-⬜——客keh⁴——曲kek⁴
-⬜——吓heh⁴——黑hek⁴
-⬜——历leh⁸——陆lek⁸
+家 ge¹ —— 格 geh⁴ —— 革 gek⁴
+斋 ze¹ —— 绩 zeh⁴ —— 则 zek⁴
+差 ce¹ —— 册 ceh⁴ —— 侧 cek⁴
+⬜ —— 百 beh⁴ —— 逼 bek⁴
+⬜ —— 客 keh⁴ —— 曲 kek⁴
+⬜ —— 吓 heh⁴ —— 黑 hek⁴
+⬜ —— 历 leh⁸ —— 陆 lek⁸
 ```
 
-练习七：o [o]——oh [oʔ]——ok [ok]
+练习七：o [o] —— oh [oʔ] —— ok [ok]
 
 ```
-刀do¹——桌doh⁴——筑dok⁴
-逃do⁵——择doh⁸——独dok⁸
-波bo¹——驳boh⁴——卜bok⁴（占卜）
-歌go¹——阁goh⁴——国gok⁴
-蔬so¹——雪soh⁴——速sok⁴
-毛mo⁵——漠moh⁸——寞mok⁸
-罗lo⁵——落loh⁸——录lok⁸
-河ho⁵——鹤hoh⁸——服hok⁸
-槽zo⁵——绝zoh⁸——族zok⁸
+刀 do¹ —— 桌 doh⁴ —— 筑 dok⁴
+逃 do⁵ —— 择 doh⁸ —— 独 dok⁸
+波 bo¹ —— 驳 boh⁴ —— 卜 bok⁴（占卜）
+歌 go¹ —— 阁 goh⁴ —— 国 gok⁴
+蔬 so¹ —— 雪 soh⁴ —— 速 sok⁴
+毛 mo⁵ —— 漠 moh⁸ —— 寞 mok⁸
+罗 lo⁵ —— 落 loh⁸ —— 录 lok⁸
+河 ho⁵ —— 鹤 hoh⁸ —— 服 hok⁸
+槽 zo⁵ —— 绝 zoh⁸ —— 族 zok⁸
 ```
 
-练习八：v [ɤ]——vh [ɤʔ]——vk [ɤk]
+练习八：v [ɤ] ——vh [ɤʔ] —— vk [ɤk]
 
 这一组找不到对比。韵母 vh 几乎没有辖字；韵母 vk 的辖字不多，常见的有以下几个：“乞”（kvk⁴，乞讨）、“吃”（ngvk⁴，吃力）、“讫”（ngvk⁴，收讫）、“迄”（ngvk⁴，迄今）。
 

@@ -106,19 +106,19 @@
   </tr>
 </table>
 
-练习一：iou——iu（仅适用于潮州音和澄海音）
+练习一：iou —— iu（仅适用于潮州音和澄海音）
 
 ```
-耀iou⁶——右iu⁶
-雕diou¹——丟diu¹
-挑tiou¹——抽tiu¹
-疗liou⁵——留liu⁵
-撬giou⁶——疚giu⁶
-侨kiou⁵——求kiu⁵
-鸟ziou²——酒ziu²
-朝ciou⁵——售ciu⁵（朝廷）
-数siou³——秀siu³
-饶riou⁵——柔riu⁵
+耀 iou⁶ —— 右 iu⁶
+雕 diou¹ —— 丟 diu¹
+挑 tiou¹ —— 抽 tiu¹
+疗 liou⁵ —— 留 liu⁵
+撬 giou⁶ —— 疚 giu⁶
+侨 kiou⁵ —— 求 kiu⁵
+鸟 ziou² —— 酒 ziu²
+朝 ciou⁵ —— 售 ciu⁵（朝廷）
+数 siou³ —— 秀 siu³
+饶 riou⁵ —— 柔 riu⁵
 ```
 
 （3）汉语拼音规定，uei 在没有声母时保留原形，如“威”(wēi)；有声母时缩写成 ui，如“归”(gūi)，但其实仍读 uei，在 u 和 i 之间始终有明显的过渡音 e，和潮汕话的 ui 并不像。

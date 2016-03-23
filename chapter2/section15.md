@@ -80,61 +80,61 @@
 练习一：元音韵——鼻化韵——鼻尾韵
 
 ```
-打da²——胆daⁿ²——党dang²
-胶ga¹——柑gaⁿ¹——刚gang¹
-教ga³——酵gaⁿ³——降gang³
+打 da² —— 胆 daⁿ² —— 党 dang²
+胶 ga¹ —— 柑 gaⁿ¹ —— 刚 gang¹
+教 ga³ —— 酵 gaⁿ³ —— 降 gang³
 ```
 
 ```
-移i⁵——圆iⁿ⁵——沿ing⁵
-池di⁵——缠diⁿ⁵——尘ding⁵
-希hi⁵——弦hiⁿ⁵——晕hing⁵
-制zi³——箭ziⁿ³——进zing³
-妻ci¹——鲜ciⁿ¹——亲cing¹
-四si³——扇siⁿ³——信sing³
+移 i⁵ —— 圆 iⁿ⁵ —— 沿 ing⁵
+池 di⁵ —— 缠 diⁿ⁵ —— 尘 ding⁵
+希 hi⁵ —— 弦 hiⁿ⁵ —— 晕 hing⁵
+制 zi³ —— 箭 ziⁿ³ —— 进 zing³
+妻 ci¹ —— 鲜 ciⁿ¹ —— 亲 cing¹
+四 si³ —— 扇 siⁿ³ —— 信 sing³
 ```
 
 ```
-爬be⁵——棚beⁿ⁵——凭beng⁵
-嫁ge³——劲geⁿ³——敬geng³
-姐ze²——井zeⁿ²——肿zeng²
-差ce¹——星ceⁿ¹——清ceng¹
-纱se¹——生seⁿ¹——升seng¹（产生）
+爬 be⁵ —— 棚 beⁿ⁵ —— 凭 beng⁵
+嫁 ge³ —— 劲 geⁿ³ —— 敬 geng³
+姐 ze² —— 井 zeⁿ² —— 肿 zeng²
+差 ce¹ —— 星 ceⁿ¹ —— 清 ceng¹
+纱 se¹ —— 生 seⁿ¹ —— 升 seng¹（产生）
 ```
 
 ```
-野ia²——影iaⁿ²——氧iang²
-加gia¹——京giaⁿ¹——疆giang¹
-靴hia¹——兄hiaⁿ¹——香hiang¹
-蔗zia³——正ziaⁿ³——奖ziang³
-邪sia⁵——城siaⁿ⁵——祥siang⁵
+野 ia² —— 影 iaⁿ² —— 氧 iang²
+加 gia¹ —— 京 giaⁿ¹ —— 疆 giang¹
+靴 hia¹ —— 兄 hiaⁿ¹ —— 香 hiang¹
+蔗 zia³ —— 正 ziaⁿ³ —— 奖 ziang³
+邪 sia⁵ —— 城 siaⁿ⁵ —— 祥 siang⁵
 ```
 
 ```
-我ua²——碗uaⁿ²——往uang²
+我 ua² —— 碗 uaⁿ² —— 往 uang²
 ```
 
 练习二：元音韵——鼻化韵
 
 ```
-鞋oi⁵——闲oiⁿ⁵
-街goi¹——肩goiⁿ¹
+鞋 oi⁵ —— 闲 oiⁿ⁵
+街 goi¹ —— 肩 goiⁿ¹
 ```
 
 ```
-孝hau³——好hauⁿ³（爱好）
+孝 hau³ —— 好 hauⁿ³（爱好）
 ```
 
 ```
-瓜gue¹——关gueⁿ¹（开关）
-回hue⁵——横hueⁿ⁵
+瓜 gue¹ —— 关 gueⁿ¹（开关）
+回 hue⁵ —— 横 hueⁿ⁵
 ```
 
 ```
-窑ie⁵——羊ieⁿ⁵（汕头音的韵母是ioⁿ，下同）
-潮die⁵——场dieⁿ⁵
-招zie¹——章zieⁿ¹（文章）
-烧sie¹——伤sieⁿ¹
+窑 ie⁵ —— 羊 ieⁿ⁵（汕头音的韵母是ioⁿ，下同）
+潮 die⁵ —— 场 dieⁿ⁵
+招 zie¹ —— 章 zieⁿ¹（文章）
+烧 sie¹ —— 伤 sieⁿ¹
 ```
 
 ## 鼻化韵的来源

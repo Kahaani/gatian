@@ -42,23 +42,23 @@
 
 ## 发音练习
 
-练习一：d [t]——t [tʰ]——n [n]——l [l]
+练习一：d [t] —— t [tʰ] —— n [n] —— l [l]
 
 ```
-池di⁵——持ti⁵——年ni⁵——离li⁵
-逃do⁵——桃to⁵——娜no⁵——罗lo⁵
-大dai⁶——待tai⁶——乃nai⁶——内lai⁶
-⬜——丑tiu²——钮niu²——柳liu²
-同dang⁵——唐tang⁵——人nang⁵——狼lang⁵
+池 di⁵ —— 持 ti⁵ —— 年 ni⁵ —— 离 li⁵
+逃 do⁵ —— 桃 to⁵ —— 娜 no⁵ —— 罗 lo⁵
+大 dai⁶ —— 待 tai⁶ —— 乃 nai⁶ —— 内 lai⁶
+⬜ —— 丑 tiu² —— 钮 niu² —— 柳 liu²
+同 dang⁵ —— 唐 tang⁵ —— 人 nang⁵ —— 狼 lang⁵
 ```
 
-练习二：n [n]——l [l]
+练习二：n [n] —— l [l]
 
 ```
-篮na⁵——𦛨la⁵（𦛨饼）
-莲noi⁵——犁loi⁵
-奴nou⁵——炉lou⁵
-肉nek⁸——绿lek⁸
+篮 na⁵ —— 𦛨 la⁵（𦛨饼）
+莲 noi⁵ —— 犁 loi⁵
+奴 nou⁵ —— 炉 lou⁵
+肉 nek⁸ —— 绿 lek⁸
 ```
 
 ## 鼻音 n 和边音 l

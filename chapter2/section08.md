@@ -101,27 +101,27 @@
 
 既然把零声母放在喉音一列，不妨把它和同部位的声母h做个对比。
 
-练习一：零声母∅——h [h]
+练习一：零声母∅ —— h [h]
 
 ```
-衣i¹——希hi¹
-羽u²——府hu²
-余v⁵——鱼hv⁵
-爷ia⁵——霞hia⁵
-益iah⁴——歇hiah⁴
-按ang³——汉hang³
-铅ing⁵——晕hing⁵
-运ung⁷——份hung⁷
-英eng¹——胸heng¹
-翁ong¹——丰hong¹
-庵am¹——蚶ham¹
-音im¹——鑫him¹
-盐iem⁵——嫌hiem⁵（汕头音的韵母是iam）
-屋ok⁴——福hok⁴
-熨uk⁴——忽huk⁴
-粤uek⁸——罚huek⁸（汕头音的韵母是uak）
-圆iⁿ⁵——弦hiⁿ⁵
-黄ng⁵——园hng⁵
+衣 i¹ —— 希 hi¹
+羽 u² —— 府 hu²
+余 v⁵ —— 鱼 hv⁵
+爷 ia⁵ —— 霞 hia⁵
+益 iah⁴ —— 歇 hiah⁴
+按 ang³ —— 汉 hang³
+铅 ing⁵ —— 晕 hing⁵
+运 ung⁷ —— 份 hung⁷
+英 eng¹ —— 胸 heng¹
+翁 ong¹ —— 丰 hong¹
+庵 am¹ —— 蚶 ham¹
+音 im¹ —— 鑫 him¹
+盐 iem⁵ —— 嫌 hiem⁵（汕头音的韵母是iam）
+屋 ok⁴ —— 福 hok⁴
+熨 uk⁴ —— 忽 huk⁴
+粤 uek⁸ —— 罚 huek⁸（汕头音的韵母是uak）
+圆 iⁿ⁵ —— 弦 hiⁿ⁵
+黄 ng⁵ —— 园 hng⁵
 ```
 
 ## 闽南话的十五音
