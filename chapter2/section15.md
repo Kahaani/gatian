@@ -147,21 +147,68 @@
 
 在潮汕话中还有一些字，文读音是鼻尾韵，白读音是鼻化韵。这些字在历史上发生了音变，从鼻尾韵变成鼻化韵；但是受到后来中原汉语的影响，又重新产生了鼻尾韵的念法，从而形成文白异读。
 
-例子三：鼻尾韵（文读）——鼻化韵（白读）
-
-```
-三：sam¹（三国演义）—— saⁿ¹（三个）
-添：tiem¹/tiam¹（添加）—— tiⁿ¹（添水）
-天：tieng¹/tiang¹（天安门）—— tiⁿ¹（今天）
-生：seng¹（学生）—— seⁿ¹（产生）、ceⁿ¹（生肉）
-更：geng¹（变更）、geng³（更加）—— geⁿ¹（三更）
-还：hueng⁵/huang⁵（还有）—— haiⁿ⁵/hoiⁿ⁵（还钱）
-命：meng⁶（命令）—— miaⁿ⁷（生命）
-张：ziang¹（紧张）—— dieⁿ¹/dioⁿ¹（姓氏）
-阳：iang⁵（太阳）—— ieⁿ⁵/ioⁿ⁵（地名，如揭阳、潮阳）
-安：ang¹（平安）—— uaⁿ¹（安全）
-关：gueng¹/guang¹（海关）—— gueⁿ¹（开关）
-```
+<table style="width:1px; white-space:nowrap; text-align:left;">
+  <tr>
+    <th>例字</th>
+    <th>文读：鼻尾韵</th>
+    <th>白读：鼻化韵</th>
+  </tr>
+  <tr>
+    <td>三</td>
+    <td>sam¹（三国演义）</td>
+    <td>saⁿ¹（三个）</td>
+  </tr>
+  <tr>
+    <td>添</td>
+    <td>tiem¹ / tiam¹（添加）</td>
+    <td>tiⁿ¹（添水）</td>
+  </tr>
+  <tr>
+    <td>天</td>
+    <td>tieng¹ / tiang¹（天安门）</td>
+    <td>tiⁿ¹（今天）</td>
+  </tr>
+  <tr>
+    <td>生</td>
+    <td>seng¹（学生）</td>
+    <td>seⁿ¹（产生）<br>ceⁿ¹（生肉）</td>
+  </tr>
+  <tr>
+    <td>更</td>
+    <td>geng¹（变更）<br>geng³（更加）</td>
+    <td>geⁿ¹（三更）</td>
+  </tr>
+  <tr>
+    <td>还</td>
+    <td>hueng⁵ / huang⁵（还有）</td>
+    <td>haiⁿ⁵ / hoiⁿ⁵（还钱）</td>
+  </tr>
+  <tr>
+    <td>命</td>
+    <td>meng⁶（命令）</td>
+    <td>miaⁿ⁷（生命）</td>
+  </tr>
+  <tr>
+    <td>张</td>
+    <td>ziang¹（紧张）</td>
+    <td>dieⁿ¹ / dioⁿ¹（姓氏）</td>
+  </tr>
+  <tr>
+    <td>阳</td>
+    <td>iang⁵（太阳）</td>
+    <td>ieⁿ⁵ / ioⁿ⁵（地名，如揭阳、潮阳）</td>
+  </tr>
+  <tr>
+    <td>安</td>
+    <td>ang¹（平安）</td>
+    <td>uaⁿ¹（安全）</td>
+  </tr>
+  <tr>
+    <td>关</td>
+    <td>gueng¹ / guang¹（海关）</td>
+    <td>gueⁿ¹（开关）</td>
+  </tr>
+</table>
 
 （2）**来源于鼻音声母**。普通的元音韵和鼻音声母[m]、[n]、[ŋ]搭配，会受到声母的同化作用，变成鼻化韵。
 

@@ -152,28 +152,105 @@
 
 和“张”、“飞”类似的字还有很多，下面分别举例。
 
-例子一：普通话 f ——潮汕话文读 h ——白读 b、p（古无轻唇音）
+古无轻唇音：
 
-```
-放：fàng —— huang³（解放）—— bang³（放生）
-方：fāng —— huang¹（方向）、hng¹（药方）—— bang¹（长方形）、bung¹（姓氏）
-分：fēn —— hung¹（分数）—— bung¹（分给大家）
-饭：fàn —— hueng⁶/huang⁶ —— bung⁷（斜杆前后分别是潮州音和汕头音，下同）
-妇：fù —— hu⁶（妇女）—— bu⁶（新妇）
-傅：fù —— hu³（师傅）—— bou³（姓氏）
-芳：fāng —— huang¹（人名）—— pang¹（“香”字的训读音）
-```
+<table style="width:1px; white-space:nowrap; text-align:left;">
+  <tr>
+    <th>例字</th>
+    <th>普通话 f</th>
+    <th>潮汕话文读 h</th>
+    <th>潮汕话白读 b、p</th>
+  </tr>
+  <tr>
+    <td>放</td>
+    <td>fàng</td>
+    <td>huang³（解放）</td>
+    <td>bang³（放生）</td>
+  </tr>
+  <tr>
+    <td>方</td>
+    <td>fāng</td>
+    <td>huang¹（方向）<br>hng¹（药方）</td>
+    <td>bang¹（长方形）<br>bung¹（姓氏）</td>
+  </tr>
+  <tr>
+    <td>分</td>
+    <td>fēn</td>
+    <td>hung¹（分数）</td>
+    <td>bung¹（分给大家）</td>
+  </tr>
+  <tr>
+    <td>饭</td>
+    <td>fàn</td>
+    <td>hueng⁶ / huang⁶</td>
+    <td>bung⁷</td>
+  </tr>
+  <tr>
+    <td>妇</td>
+    <td>fù</td>
+    <td>hu⁶（妇女）</td>
+    <td>bu⁶（新妇）</td>
+  </tr>
+  <tr>
+    <td>傅</td>
+    <td>fù</td>
+    <td>hu³（师傅）</td>
+    <td>bou³（姓氏）</td>
+  </tr>
+  <tr>
+    <td>芳</td>
+    <td>fāng</td>
+    <td>huang¹（人名）</td>
+    <td>pang¹（“香”字的训读音）</td>
+  </tr>
+</table>
 
-例子二：普通话 zh、ch ——潮汕话文读 z、c ——白读 d、t（古无舌上音）
+古无舌上音：
 
-```
-知：zhī —— zai¹（知道）—— di¹（知识）
-阵：zhèn —— zung⁵（一阵风）—— ding⁷（阵亡）
-丈：zhàng —— ziang⁶（丈夫）—— dieⁿ⁶/dioⁿ⁶（丈人），dvng⁶（长度单位）
-胀：zhàng —— ziang³（膨胀）—— dieⁿ³/dioⁿ³（胀肚）
-长：zhǎng —— ziang²（成长）—— dieⁿ²/dioⁿ²（族长，旧时家族的首领；家长，旧时指打理店铺的人）
-长：cháng —— ciang⁵（长城）—— dvng⁵（长短）
-```
+<table style="width:1px; white-space:nowrap; text-align:left;">
+  <tr>
+    <th>例字</th>
+    <th>普通话 zh、ch</th>
+    <th>潮汕话文读 z、c</th>
+    <th>潮汕话白读 d、t</th>
+  </tr>
+  <tr>
+    <td>知</td>
+    <td>zhī</td>
+    <td>zai¹（知道）</td>
+    <td>di¹（知识）</td>
+  </tr>
+  <tr>
+    <td>阵</td>
+    <td>zhèn</td>
+    <td>zung⁵（一阵风）</td>
+    <td>ding⁷（阵亡）</td>
+  </tr>
+  <tr>
+    <td>丈</td>
+    <td>zhàng</td>
+    <td>ziang⁶（丈夫）</td>
+    <td>dieⁿ⁶ / dioⁿ⁶（丈人）<br>dvng⁶（长度单位）</td>
+  </tr>
+  <tr>
+    <td>胀</td>
+    <td>zhàng</td>
+    <td>ziang³（膨胀）</td>
+    <td>dieⁿ³ / dioⁿ³（胀肚）</td>
+  </tr>
+  <tr>
+    <td>长</td>
+    <td>zhǎng</td>
+    <td>ziang²（成长）</td>
+    <td>dieⁿ² / dioⁿ²<br>（族长，旧时家族的首领）<br>（家长，旧时指打理店铺的人）</td>
+  </tr>
+  <tr>
+    <td>长</td>
+    <td>cháng</td>
+    <td>ciang⁵（长城）</td>
+    <td>dvng⁵（长短）</td>
+  </tr>
+</table>
 
 潮汕话中有文白异读的字毕竟只占少数，大部分的字只保留了一种读法，有的保留了较老的层次，有的保留了较新的层次，如下表所示。
 
@@ -237,21 +314,55 @@
 
 上文所举的例子都属于B类字，但A类字同样也能体现“古无轻唇音”和“古无舌上音”，分别举例如下。
 
-例子三：普通话 f ——潮汕话 b、p（古无轻唇音）
+古无轻唇音：
 
-```
-普通话读f，潮汕话读b：父腹幅房冯缚富肥粪斧孵脯枫
-普通话读f，潮汕话读p：蜂纺帆浮坟甫缝
-```
+<table style="width:1px; white-space:nowrap; text-align:center;">
+  <tr>
+    <td>普通话</td>
+    <td>潮汕话</td>
+    <td>例字</td>
+  </tr>
+  <tr>
+    <td>f</td>
+    <td>b</td>
+    <td style="text-align:left;">父腹幅房冯缚富肥粪斧孵脯枫</td>
+  </tr>
+  <tr>
+    <td>f</td>
+    <td>p</td>
+    <td style="text-align:left;">蜂纺帆浮坟甫缝</td>
+  </tr>
+</table>
 
-例子四：普通话 zh、ch ——潮汕话 d、t（古无舌上音）
+古无舌上音：
 
-```
-普通话读zh，潮汕话读d：哲治着摘兆帐赵直展中卓桌猪著箸蜘蛛竹镇忠
-普通话读zh，潮汕话读t：痔宅赚辙柱
-普通话读ch，潮汕话读d：缠场潮尘茶除厨池陈沉肠
-普通话读ch，潮汕话读t：持丑超呈彻畅撑澄虫拆抽畜储逞程澈撤筹槌
-```
+<table style="width:1px; white-space:nowrap; text-align:center;">
+  <tr>
+    <td>普通话</td>
+    <td>潮汕话</td>
+    <td>例字</td>
+  </tr>
+  <tr>
+    <td>zh</td>
+    <td>d</td>
+    <td style="text-align:left;">哲治着摘兆帐赵直展中卓桌猪著箸蜘蛛竹镇忠</td>
+  </tr>
+  <tr>
+    <td>zh</td>
+    <td>t</td>
+    <td style="text-align:left;">痔宅赚辙柱</td>
+  </tr>
+  <tr>
+    <td>ch</td>
+    <td>d</td>
+    <td style="text-align:left;">缠场潮尘茶除厨池陈沉肠</td>
+  </tr>
+  <tr>
+    <td>ch</td>
+    <td>t</td>
+    <td style="text-align:left;">持丑超呈彻畅撑澄虫拆抽畜储逞程澈撤筹槌</td>
+  </tr>
+</table>
 
 李新魁先生举过一个有趣的例子：“池”、“驰”二字的声旁相同，从古至今在中原汉语一直是同音字，但潮汕话中“池”的声母是 d（A类字），“驰”的声母是 ch（C类字）。原因是“池”字在口语中的使用频率高，于是保留了更古老的读法；而“驰”字主要出现在书面语中，因此接受了晚近中原汉语的读法。
 
