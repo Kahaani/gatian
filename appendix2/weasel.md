@@ -63,7 +63,7 @@
 - 潮州：`dieziu`
 - 汕头：`suantau`
 - 澄海：`tenghai`
-- 饶平：`raupeng`
+- 饶平：`riaupeng`
 - 揭阳：`gekion`
 - 潮阳：`dioion`
 
