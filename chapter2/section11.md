@@ -19,7 +19,7 @@
     <td>韵头 i<br>（齐齿呼）</td>
     <td>ie / io 腰<br>ia 呀</td>
     <td></td>
-    <td>iu 忧<br>iou / iao 妖</td>
+    <td>iu 忧<br>iou / iau 妖</td>
   </tr>
   <tr>
     <td>韵头 u<br>（合口呼）</td>
@@ -45,7 +45,7 @@
   <tr>
     <td>其他地方</td>
     <td>io</td>
-    <td>iao</td>
+    <td>iau</td>
   </tr>
 </table>
 
