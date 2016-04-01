@@ -171,11 +171,11 @@
 
 ```
 消 siou¹ —— 枭 hiou¹（汕头音的韵母是iau）
-小 siou² —— 曉 hiou²（汕头音的韵母是iau）
+小 siou² —— 晓 hiou²（汕头音的韵母是iau）
 湘 siang¹ —— 香 hiang¹
 想 siang² —— 响 hiang²（思想）
 相 siang³ —— 向 hiang³（宰相）
-癬 sieng² —— 显 hieng²（汕头音的韵母是iang）
+癣 sieng² —— 显 hieng²（汕头音的韵母是iang）
 心 sim¹ —— 鑫 him¹
 箱 sieⁿ¹ —— 乡 hieⁿ¹（汕头音的韵母是ioⁿ）
 ```
