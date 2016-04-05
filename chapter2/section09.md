@@ -182,8 +182,8 @@
   <tr>
     <td>饭</td>
     <td>fàn</td>
-    <td>hueng⁶ / huang⁶</td>
-    <td>bung⁷</td>
+    <td>hueng⁶ / huang⁶（饭前）</td>
+    <td>bung⁷（饭碗）</td>
   </tr>
   <tr>
     <td>妇</td>
