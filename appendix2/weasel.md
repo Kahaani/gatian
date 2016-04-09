@@ -76,15 +76,15 @@
 
 ![image-c1]
 
-打开文件浏览器，在地址栏输入`%appdata%\rime`，敲击回车键，系统会自动定向到合适的目录。比如在 Windows 7 下会跳转到`C:\Users\<username>\AppData\Roaming\Rime`。把`schema.yaml`和`dict.yaml`两个文件放到该目录下。
+接下来的几个步骤，要用到“开始”菜单中“小狼毫输入法”文件夹的三个选项，下面分步详述。
 
-![image-c2]
+![image-c11]
+
+首先，在开始菜单中，选择`【小狼毫】用户文件夹`，系统会打开一个文件夹。这个目录用于存放 Rime 的用户配置文件，我们把`schema.yaml`和`dict.yaml`两个文件放到该目录下。
 
 ![image-c3]
 
 放好之后要告知小狼毫输入法。在开始菜单中，选择`【小狼毫】重新部署`。
-
-![image-c4]
 
 部署的速度取决于机器的性能，可能耗时几秒或几十秒。部署成功后没有提示信息，感兴趣的读者可以打开进程管理器，如果`WeaselDeploy.exe`进程消失了，说明部署过程结束。
 
@@ -164,3 +164,4 @@
 [image-c8]: http://ww2.sinaimg.cn/large/006mIeATjw1f2aijdze38j30sg0lcmzw.jpg
 [image-c9]: http://ww3.sinaimg.cn/large/006mIeATjw1f2aijem663j30sg0lcdih.jpg
 [image-c10]: http://ww1.sinaimg.cn/large/006mIeATjw1f2aijf2ylxj30sg0lc415.jpg
+[image-c11]: http://ww4.sinaimg.cn/large/006mIeATjw1f2qc0urd6jj30sg0lcgp8.jpg
