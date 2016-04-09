@@ -36,7 +36,7 @@
 
 ![image-b1]
 
-现在可以开始打字了。试着键入`han yu pin yin shu ru fa`，按回车键上屏。
+现在可以开始打字了。试着键入`han yu pin yin shu ru fa`，按空格键上屏。
 
 ![image-b2]
 
