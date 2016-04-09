@@ -53,6 +53,10 @@
 
 ![image-b2]
 
+输入法支持用汉语拼音反查潮语拼音。比如不知道“朝”字怎么读，可以长按 z 键（打出 \` 符号），然后键入汉语拼音`chao`，就可以查到“朝”字的潮语拼音。
+
+![image-b4]
+
 长按左下角的“选单”键，可以切换到其他方案或其他输入法。
 
 ![image-b3]
@@ -67,3 +71,4 @@
 [image-b1]: http://ww2.sinaimg.cn/large/006mIeATjw1f2cxpnkfe1j30f00qomz5.jpg
 [image-b2]: http://ww3.sinaimg.cn/large/006mIeATjw1f2cxpo9lqlj30f00qotax.jpg
 [image-b3]: http://ww1.sinaimg.cn/large/006mIeATjw1f2cxppa1lpj30f00qoq4y.jpg
+[image-b4]: http://ww4.sinaimg.cn/large/006mIeATjw1f2q8szarz1j30f00qo76c.jpg
