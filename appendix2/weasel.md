@@ -10,7 +10,7 @@
 
 > http://rime.im/download
 
-小狼毫输入法支持 Windows XP 和 Windows 7。在 Windows 8 和 Windows 10 下也可以使用，但存在兼容性问题，解决方法见下文。
+小狼毫输入法支持 Windows XP 和 Windows 7。在 Windows 8 和 Windows 10 下也可以使用，但存在少量兼容性问题，解决方法见本文最末尾。
 
 ![image-a1]
 
