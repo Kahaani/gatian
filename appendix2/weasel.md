@@ -115,7 +115,7 @@
 
 ```
 潮州：su rip huap / su rik huak
-汕头：su rip huap / su rik huak
+汕头：su rip huak / su rik huak
 澄海：su rik huak
 饶平：su rip huap
 揭阳：su rip huap
