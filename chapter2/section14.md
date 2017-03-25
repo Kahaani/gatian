@@ -95,7 +95,7 @@
     <td>阳平</td>
     <td>阳上</td>
     <td>阳去</td>
-    <td><span style="color:red;">阴入</span></td>
+    <td><span style="color:red;">阳入</span></td>
   </tr>
   <tr>
     <td>单元音韵<br><span style="color:red;">[ʔ]尾韵</span></td>
