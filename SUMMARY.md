@@ -37,3 +37,4 @@
   * [安装方法〔Mac OS X〕](appendix2/squirrel.md)
   * [安装方法〔Linux〕](appendix2/ibus.md)
   * [安装方法〔Android〕](appendix2/trime.md)
+  * [安装方法〔iOS〕](appendix2/irime.md)
