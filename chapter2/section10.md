@@ -114,7 +114,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>字母变体 ê</td>
+    <td>常规字母 v</td>
     <td></td>
     <td>v 余<br>
       vng 斤* / vk 乞*</td>
