@@ -23,7 +23,7 @@
     <td>z [ts]<br>c [tsʰ]</td>
     <td>j [tɕ]<br>q [tɕʰ]</td>
     <td>zh [tʂ]<br>ch [tʂʰ]</td>
-    <td>g [k]<br>ck [kʰ]</td>
+    <td>g [k]<br>k [kʰ]</td>
     <td>(∅)<br>　</td>
   </tr>
   <tr>
