@@ -34,7 +34,7 @@
   * [潮语拼音方案〔潮阳音〕](appendix1/dioion.md)
 * [附录二：输入法安装方法](appendix2/README.md)
   * [安装方法〔Windows〕](appendix2/weasel.md)
-  * [安装方法〔Mac OS X〕](appendix2/squirrel.md)
+  * [安装方法〔macOS〕](appendix2/squirrel.md)
   * [安装方法〔Linux〕](appendix2/ibus.md)
   * [安装方法〔Android〕](appendix2/trime.md)
   * [安装方法〔iOS〕](appendix2/irime.md)
