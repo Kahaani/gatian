@@ -2,7 +2,7 @@
 
 {% include "./common_header.md" %}
 
-Linux 的发行版很多，Rime 在两种输入法平台（IBus 和 Fcitx）上都有实现，下面以 Ubuntu 和 ibus-rime 为例，分为两大步骤：（1）安装 ibus-rime；（2）添加潮语拼音的方案和码表。
+Rime 在 Linux 的两种输入法平台（IBus 和 Fcitx）上都有实现，下面以 Ubuntu 上的 ibus-rime 为例。分为两大步骤：（1）安装 ibus-rime；（2）添加潮语拼音的方案和码表。
 
 ## 安装 ibus-rime
 
