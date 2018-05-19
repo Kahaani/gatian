@@ -107,7 +107,7 @@
     <td>z [ts]<br>c [tsʰ]</td>
     <td>j [tɕ]<br>q [tɕʰ]</td>
     <td>zh [tʂ]<br>ch [tʂʰ]</td>
-    <td>g [k]<br>ck [kʰ]</td>
+    <td>g [k]<br>k [kʰ]</td>
   </tr>
   <tr>
     <td>鼻音</td>
@@ -169,7 +169,7 @@
     <td>z [ts]<br>c [tsʰ]</td>
     <td>j [tɕ]<br>q [tɕʰ]</td>
     <td>zh [tʂ]<br>ch [tʂʰ]</td>
-    <td>g [k]<br>ck [kʰ]</td>
+    <td>g [k]<br>k [kʰ]</td>
   </tr>
   <tr>
     <td>鼻音</td>
@@ -281,7 +281,7 @@
   </tr>
   <tr>
     <td><span style="font-size:2em;">eng</span> [əŋ] 亨的韵母</td>
-    <td><span style="font-size:2em;">ieng</span> [iᵊŋ] 英</td>
+    <td><span style="font-size:2em;">ing</span> [iᵊŋ] 英</td>
     <td><span style="font-size:2em;">ueng</span> [uəŋ] 翁</td>
     <td></td>
   </tr>
