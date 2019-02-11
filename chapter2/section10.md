@@ -181,4 +181,4 @@
 
 汕尾一带的单元音韵母也只有5个，与潮阳音不同的是，[ɤ]并入[i]。
 
-[image1]: http://ww3.sinaimg.cn/large/006mIeATjw1f239jua8oaj3064064dfp.jpg
+[image1]: https://ww3.sinaimg.cn/large/006mIeATjw1f239jua8oaj3064064dfp.jpg

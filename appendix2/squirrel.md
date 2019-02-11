@@ -8,7 +8,7 @@
 
 从 Rime 的官网下载、安装“鼠须管输入法”，最新版本是 0.9.26.2。
 
-> http://rime.im/download
+> https://rime.im/download
 
 安装完毕后，在语言栏的菜单中选择`鼠须管`/`Squirrel`。如果用户的系统语言是中文，该菜单选项也会是中文。
 
@@ -30,13 +30,13 @@
 
 鼠须管输入法还有很多功能，需要时可以查看官网的文档。
 
-> http://rime.im/docs
+> https://rime.im/docs
 
 ## 添加潮语拼音的方案和码表
 
 潮语拼音输入法支持 6 种口音，请从下列链接，下载适合自己的口音版本。
 
-> 百度网盘：http://pan.baidu.com/s/1kUJt5JL
+> 百度网盘：https://pan.baidu.com/s/1kUJt5JL
 
 各地的代号如下：
 
@@ -111,14 +111,14 @@ default.custom.yaml
 
 ![image-b5]
 
-[image-a1]: http://ww2.sinaimg.cn/large/006mIeATjw1f2qfq0mxlmj30m80m8adb.jpg
-[image-a2]: http://ww2.sinaimg.cn/large/006mIeATjw1f2qfq13jhsj30fa0dwgmp.jpg
-[image-a3]: http://ww2.sinaimg.cn/large/006mIeATjw1f2qfq1pjxkj30go0fadh9.jpg
-[image-a4]: http://ww2.sinaimg.cn/large/006mIeATjw1f2qfq2ak5kj30dw0faab6.jpg
-[image-a5]: http://ww1.sinaimg.cn/large/006mIeATjw1f2qfq2v1p0j30fa0fajsm.jpg
+[image-a1]: https://ww2.sinaimg.cn/large/006mIeATjw1f2qfq0mxlmj30m80m8adb.jpg
+[image-a2]: https://ww2.sinaimg.cn/large/006mIeATjw1f2qfq13jhsj30fa0dwgmp.jpg
+[image-a3]: https://ww2.sinaimg.cn/large/006mIeATjw1f2qfq1pjxkj30go0fadh9.jpg
+[image-a4]: https://ww2.sinaimg.cn/large/006mIeATjw1f2qfq2ak5kj30dw0faab6.jpg
+[image-a5]: https://ww1.sinaimg.cn/large/006mIeATjw1f2qfq2v1p0j30fa0fajsm.jpg
 
-[image-b1]: http://ww1.sinaimg.cn/large/006mIeATjw1f2qfq3bolcj30m80m8adb.jpg
-[image-b2]: http://ww3.sinaimg.cn/large/006mIeATjw1f2qfq3sp9bj30go0dw0tu.jpg
-[image-b3]: http://ww1.sinaimg.cn/large/006mIeATjw1f2qfq4jx94j30nc0goabo.jpg
-[image-b4]: http://ww1.sinaimg.cn/large/006mIeATjw1f2qfq5457yj30kk0godhf.jpg
-[image-b5]: http://ww1.sinaimg.cn/large/006mIeATjw1f2qfq5vbatj30dw0i2dh8.jpg
+[image-b1]: https://ww1.sinaimg.cn/large/006mIeATjw1f2qfq3bolcj30m80m8adb.jpg
+[image-b2]: https://ww3.sinaimg.cn/large/006mIeATjw1f2qfq3sp9bj30go0dw0tu.jpg
+[image-b3]: https://ww1.sinaimg.cn/large/006mIeATjw1f2qfq4jx94j30nc0goabo.jpg
+[image-b4]: https://ww1.sinaimg.cn/large/006mIeATjw1f2qfq5457yj30kk0godhf.jpg
+[image-b5]: https://ww1.sinaimg.cn/large/006mIeATjw1f2qfq5vbatj30dw0i2dh8.jpg

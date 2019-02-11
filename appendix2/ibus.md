@@ -34,13 +34,13 @@ sudo apt-get install ibus-rime
 
 Rime 输入法还有很多功能，需要时可以查看官网的文档。
 
-> http://rime.im/docs
+> https://rime.im/docs
 
 ## 添加潮语拼音的方案和码表
 
 潮语拼音输入法支持 6 种口音，请从下列链接，下载适合自己的口音版本。
 
-> 百度网盘：http://pan.baidu.com/s/1kUJt5JL
+> 百度网盘：https://pan.baidu.com/s/1kUJt5JL
 
 各地的代号如下：
 
@@ -119,13 +119,13 @@ rm ~/.config/ibus/rime/default.yaml; ibus-daemon -drx
 
 ![image-b5]
 
-[image-a1]: http://ww1.sinaimg.cn/large/006mIeATgw1f3w2sk9mixj30dw0b4wer.jpg
-[image-a2]: http://ww2.sinaimg.cn/large/006mIeATgw1f3w2skoehbj30dw0b474q.jpg
-[image-a3]: http://ww2.sinaimg.cn/large/006mIeATgw1f3w2slew6nj30dw0b4mxl.jpg
-[image-a4]: http://ww2.sinaimg.cn/large/006mIeATgw1f3w2sm4khpj30dw0b4dge.jpg
+[image-a1]: https://ww1.sinaimg.cn/large/006mIeATgw1f3w2sk9mixj30dw0b4wer.jpg
+[image-a2]: https://ww2.sinaimg.cn/large/006mIeATgw1f3w2skoehbj30dw0b474q.jpg
+[image-a3]: https://ww2.sinaimg.cn/large/006mIeATgw1f3w2slew6nj30dw0b4mxl.jpg
+[image-a4]: https://ww2.sinaimg.cn/large/006mIeATgw1f3w2sm4khpj30dw0b4dge.jpg
 
-[image-b1]: http://ww4.sinaimg.cn/large/006mIeATgw1f3w2sn2efdj30dw0b40t0.jpg
-[image-b2]: http://ww1.sinaimg.cn/large/006mIeATgw1f3w2snhiscj30dw0b40tb.jpg
-[image-b3]: http://ww3.sinaimg.cn/large/006mIeATgw1f3w2snz5v4j30dw0b4js4.jpg
-[image-b4]: http://ww1.sinaimg.cn/large/006mIeATgw1f3w2sokg8kj30dw0b4mxv.jpg
-[image-b5]: http://ww3.sinaimg.cn/large/006mIeATgw1f3w2sp37a4j30dw0b4q3o.jpg
+[image-b1]: https://ww4.sinaimg.cn/large/006mIeATgw1f3w2sn2efdj30dw0b40t0.jpg
+[image-b2]: https://ww1.sinaimg.cn/large/006mIeATgw1f3w2snhiscj30dw0b40tb.jpg
+[image-b3]: https://ww3.sinaimg.cn/large/006mIeATgw1f3w2snz5v4j30dw0b4js4.jpg
+[image-b4]: https://ww1.sinaimg.cn/large/006mIeATgw1f3w2sokg8kj30dw0b4mxv.jpg
+[image-b5]: https://ww3.sinaimg.cn/large/006mIeATgw1f3w2sp37a4j30dw0b4q3o.jpg

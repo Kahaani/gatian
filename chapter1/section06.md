@@ -108,10 +108,10 @@
 
 > 〔图7〕张晓山：《新潮汕字典》精编本，广东人民出版社2010年版。
 
-[image1]: http://ww3.sinaimg.cn/large/006mIeATjw1f21dcrur4aj30nh0tpdky.jpg
-[image2]: http://ww2.sinaimg.cn/large/006mIeATjw1f21dcsfagpj31co0jagur.jpg
-[image3]: http://ww1.sinaimg.cn/large/006mIeATjw1f21dcuvgx2j30os0xnwod.jpg
-[image4]: http://ww2.sinaimg.cn/large/006mIeATjw1f21dcsw1g1j30hc0p4jve.jpg
-[image5]: http://ww3.sinaimg.cn/large/006mIeATjw1f21dcthpydj30dy0k1ael.jpg
-[image6]: http://ww1.sinaimg.cn/large/006mIeATjw1f21dcua1m2j30mg0vc113.jpg
-[image7]: http://ww4.sinaimg.cn/large/006mIeATjw1f21dcvhhjxj30mc0xawni.jpg
+[image1]: https://ww3.sinaimg.cn/large/006mIeATjw1f21dcrur4aj30nh0tpdky.jpg
+[image2]: https://ww2.sinaimg.cn/large/006mIeATjw1f21dcsfagpj31co0jagur.jpg
+[image3]: https://ww1.sinaimg.cn/large/006mIeATjw1f21dcuvgx2j30os0xnwod.jpg
+[image4]: https://ww2.sinaimg.cn/large/006mIeATjw1f21dcsw1g1j30hc0p4jve.jpg
+[image5]: https://ww3.sinaimg.cn/large/006mIeATjw1f21dcthpydj30dy0k1ael.jpg
+[image6]: https://ww1.sinaimg.cn/large/006mIeATjw1f21dcua1m2j30mg0vc113.jpg
+[image7]: https://ww4.sinaimg.cn/large/006mIeATjw1f21dcvhhjxj30mc0xawni.jpg

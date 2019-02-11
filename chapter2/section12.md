@@ -458,4 +458,4 @@
 
 > 〔图1〕吴芳：《粤东闽语前后鼻音韵尾类型研究》，暨南大学出版社2013年版，第122页。
 
-[image1]: http://ww1.sinaimg.cn/large/006mIeATjw1f23gzjva81j30le0m8n14.jpg
+[image1]: https://ww1.sinaimg.cn/large/006mIeATjw1f23gzjva81j30le0m8n14.jpg
