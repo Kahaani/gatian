@@ -64,7 +64,7 @@ Rime 输入法还有很多功能，需要时可以查看官网的文档。
 patch:
   schema_list:
     - schema: luna_pinyin    # 朙月拼音
-    - schema: dieziu         # 潮語拼音〔潮州〕
+    - schema: dieziu         # 潮語拼音·潮州
 ```
 
 接下来，打开文件夹`~/.config/ibus/rime/`（0.9.1 以下版本为`~/.ibus/rime/`），这个目录用于存放 Rime 的用户配置文件，我们把刚才的三个文件放到该目录下。

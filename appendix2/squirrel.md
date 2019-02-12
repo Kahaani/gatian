@@ -6,7 +6,7 @@
 
 ## 安装鼠须管输入法
 
-从 Rime 的官网下载、安装“鼠须管输入法”，最新版本是 0.9.26.2。
+从 Rime 的官网下载、安装“鼠须管输入法”。
 
 > https://rime.im/download
 
@@ -60,7 +60,7 @@
 patch:
   schema_list:
     - schema: luna_pinyin    # 朙月拼音
-    - schema: dieziu         # 潮語拼音〔潮州〕
+    - schema: dieziu         # 潮語拼音·潮州
 ```
 
 接下来，选择语言栏菜单中的`用户设定`/`Settings`，系统会打开一个文件夹。
