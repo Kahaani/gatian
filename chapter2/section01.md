@@ -54,6 +54,6 @@
 
 > 〔图3〕上书第232页。
 
-[image1]: https://ww1.sinaimg.cn/large/006mIeATjw1f21yxo0dm7j30jr0bv0ug.jpg
-[image2]: https://ww1.sinaimg.cn/large/006mIeATjw1f21za49b5gj30ko09idhq.jpg
-[image3]: https://ww1.sinaimg.cn/large/006mIeATjw1f21yxofb5hj30bl09aq3j.jpg
+[image1]: http://ww1.sinaimg.cn/large/006mIeATjw1f21yxo0dm7j30jr0bv0ug.jpg
+[image2]: http://ww1.sinaimg.cn/large/006mIeATjw1f21za49b5gj30ko09idhq.jpg
+[image3]: http://ww1.sinaimg.cn/large/006mIeATjw1f21yxofb5hj30bl09aq3j.jpg

@@ -227,5 +227,5 @@ zh [tʂ] —— ch [tʂʰ]
 
 > 〔图2〕朱晓农：《音法演化：发声活动》，商务印书馆2012年版，第549页。
 
-[image1]: https://ww2.sinaimg.cn/large/006mIeATjw1f22dgrpw3ij30h904gwev.jpg
-[image2]: https://ww3.sinaimg.cn/large/006mIeATjw1f22dgs19xlj30c9090t93.jpg
+[image1]: http://ww2.sinaimg.cn/large/006mIeATjw1f22dgrpw3ij30h904gwev.jpg
+[image2]: http://ww3.sinaimg.cn/large/006mIeATjw1f22dgs19xlj30c9090t93.jpg

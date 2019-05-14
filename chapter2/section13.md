@@ -265,5 +265,5 @@
 
 > 〔图2〕林焘、王理嘉：《语音学教程》增订版，北京大学出版社2013年版，第125页。
 
-[image1]: https://ww4.sinaimg.cn/large/006mIeATjw1f23n66m03hj30a003wjrk.jpg
-[image2]: https://ww3.sinaimg.cn/large/006mIeATjw1f23m5qpmmdj305k05zaaa.jpg
+[image1]: http://ww4.sinaimg.cn/large/006mIeATjw1f23n66m03hj30a003wjrk.jpg
+[image2]: http://ww3.sinaimg.cn/large/006mIeATjw1f23m5qpmmdj305k05zaaa.jpg

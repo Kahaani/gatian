@@ -345,4 +345,4 @@
 
 在上表中，j组声母和其他任一组声母都构成互补分布。在设计拼音方案时，也可以把j组和其他某一组合并。比如1928年的国语罗马字，就把j、q、x和zh、ch、sh合并，设计成j、ch、sh。
 
-[image1]: https://ww2.sinaimg.cn/large/006mIeATjw1f21zygu68nj30c709gt9m.jpg
+[image1]: http://ww2.sinaimg.cn/large/006mIeATjw1f21zygu68nj30c709gt9m.jpg

@@ -54,5 +54,5 @@
 
 > 〔图2〕吴芳：《粤东闽语前后鼻音韵尾类型研究》，暨南大学出版社2013年版，第25~26页。
 
-[image1]: https://ww3.sinaimg.cn/large/006mIeATjw1f2066ux1p1j30ve0y4ag8.jpg
-[image2]: https://ww2.sinaimg.cn/large/006mIeATjw1f2066va0u8j31dm0zmdrz.jpg
+[image1]: http://ww3.sinaimg.cn/large/006mIeATjw1f2066ux1p1j30ve0y4ag8.jpg
+[image2]: http://ww2.sinaimg.cn/large/006mIeATjw1f2066va0u8j31dm0zmdrz.jpg
