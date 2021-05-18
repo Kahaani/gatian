@@ -228,4 +228,4 @@
 
 在实际口语中，塞擦音[dz]有时会读成擦音[z]，有些书就把这个声母记作[z]。不同的记法会影响音系上的处理：如果记作塞擦音[dz]，则和[ts]、[tsʰ]构成清不送气、清送气、浊的对立；如果记作擦音[z]，则和[s]构成清浊对立。
 
-[image1]: http://ww4.sinaimg.cn/large/006mIeATjw1f2338wcwa6j30dw08cwf8.jpg
+[image1]: images/7-1.jpg

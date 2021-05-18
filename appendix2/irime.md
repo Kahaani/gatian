@@ -110,15 +110,15 @@ dieziu.table.bin
 
 ![image-b5]
 
-[image-a1]: http://wx2.sinaimg.cn/large/006mIeATgy1fefis6qpxjj30ku1123zc.jpg
-[image-a2]: http://wx3.sinaimg.cn/large/006mIeATgy1fefis76vtmj30ku1120vb.jpg
-[image-a3]: http://wx1.sinaimg.cn/large/006mIeATgy1fefis7n4s1j30ku112410.jpg
-[image-a4]: http://wx3.sinaimg.cn/large/006mIeATgy1fefis82wk8j30ku1120ue.jpg
-[image-a5]: http://wx1.sinaimg.cn/large/006mIeATgy1fefis8src5j30ku11244s.jpg
-[image-a6]: http://wx3.sinaimg.cn/large/006mIeATgy1fefis9jm13j30ku112n2v.jpg
+[image-a1]: images/irime/a1.jpg
+[image-a2]: images/irime/a2.jpg
+[image-a3]: images/irime/a3.jpg
+[image-a4]: images/irime/a4.jpg
+[image-a5]: images/irime/a5.jpg
+[image-a6]: images/irime/a6.jpg
 
-[image-b1]: http://wx3.sinaimg.cn/large/006mIeATgy1fefisa0pa2j30ku112wfk.jpg
-[image-b2]: http://wx3.sinaimg.cn/large/006mIeATgy1fefisaf8s5j30ku1123zp.jpg
-[image-b3]: http://wx3.sinaimg.cn/large/006mIeATgy1fefisawpx5j30zi10wn0w.jpg
-[image-b4]: http://wx3.sinaimg.cn/large/006mIeATgy1fefisbeftpj30ku112go3.jpg
-[image-b5]: http://wx3.sinaimg.cn/large/006mIeATgy1fefisbxp3ij30ku112wk6.jpg
+[image-b1]: images/irime/b1.jpg
+[image-b2]: images/irime/b2.jpg
+[image-b3]: images/irime/b3.jpg
+[image-b4]: images/irime/b4.jpg
+[image-b5]: images/irime/b5.jpg

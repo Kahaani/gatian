@@ -111,14 +111,14 @@ default.custom.yaml
 
 ![image-b5]
 
-[image-a1]: http://ww2.sinaimg.cn/large/006mIeATjw1f2qfq0mxlmj30m80m8adb.jpg
-[image-a2]: http://ww2.sinaimg.cn/large/006mIeATjw1f2qfq13jhsj30fa0dwgmp.jpg
-[image-a3]: http://ww2.sinaimg.cn/large/006mIeATjw1f2qfq1pjxkj30go0fadh9.jpg
-[image-a4]: http://ww2.sinaimg.cn/large/006mIeATjw1f2qfq2ak5kj30dw0faab6.jpg
-[image-a5]: http://ww1.sinaimg.cn/large/006mIeATjw1f2qfq2v1p0j30fa0fajsm.jpg
+[image-a1]: images/squirrel/a1.jpg
+[image-a2]: images/squirrel/a2.jpg
+[image-a3]: images/squirrel/a3.jpg
+[image-a4]: images/squirrel/a4.jpg
+[image-a5]: images/squirrel/a5.jpg
 
-[image-b1]: http://ww1.sinaimg.cn/large/006mIeATjw1f2qfq3bolcj30m80m8adb.jpg
-[image-b2]: http://ww3.sinaimg.cn/large/006mIeATjw1f2qfq3sp9bj30go0dw0tu.jpg
-[image-b3]: http://ww1.sinaimg.cn/large/006mIeATjw1f2qfq4jx94j30nc0goabo.jpg
-[image-b4]: http://ww1.sinaimg.cn/large/006mIeATjw1f2qfq5457yj30kk0godhf.jpg
-[image-b5]: http://ww1.sinaimg.cn/large/006mIeATjw1f2qfq5vbatj30dw0i2dh8.jpg
+[image-b1]: images/squirrel/b1.jpg
+[image-b2]: images/squirrel/b2.jpg
+[image-b3]: images/squirrel/b3.jpg
+[image-b4]: images/squirrel/b4.jpg
+[image-b5]: images/squirrel/b5.jpg

@@ -119,13 +119,13 @@ rm ~/.config/ibus/rime/default.yaml; ibus-daemon -drx
 
 ![image-b5]
 
-[image-a1]: http://ww1.sinaimg.cn/large/006mIeATgw1f3w2sk9mixj30dw0b4wer.jpg
-[image-a2]: http://ww2.sinaimg.cn/large/006mIeATgw1f3w2skoehbj30dw0b474q.jpg
-[image-a3]: http://ww2.sinaimg.cn/large/006mIeATgw1f3w2slew6nj30dw0b4mxl.jpg
-[image-a4]: http://ww2.sinaimg.cn/large/006mIeATgw1f3w2sm4khpj30dw0b4dge.jpg
+[image-a1]: images/ibus/a1.png
+[image-a2]: images/ibus/a2.png
+[image-a3]: images/ibus/a3.png
+[image-a4]: images/ibus/a4.png
 
-[image-b1]: http://ww4.sinaimg.cn/large/006mIeATgw1f3w2sn2efdj30dw0b40t0.jpg
-[image-b2]: http://ww1.sinaimg.cn/large/006mIeATgw1f3w2snhiscj30dw0b40tb.jpg
-[image-b3]: http://ww3.sinaimg.cn/large/006mIeATgw1f3w2snz5v4j30dw0b4js4.jpg
-[image-b4]: http://ww1.sinaimg.cn/large/006mIeATgw1f3w2sokg8kj30dw0b4mxv.jpg
-[image-b5]: http://ww3.sinaimg.cn/large/006mIeATgw1f3w2sp37a4j30dw0b4q3o.jpg
+[image-b1]: images/ibus/b1.png
+[image-b2]: images/ibus/b2.png
+[image-b3]: images/ibus/b3.png
+[image-b4]: images/ibus/b4.png
+[image-b5]: images/ibus/b5.png

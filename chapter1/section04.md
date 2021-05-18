@@ -63,6 +63,6 @@
 
 > 〔图3〕本文原创。
 
-[image1]: http://ww3.sinaimg.cn/large/006mIeATjw1f206dht3i7j32dd1ro1e4.jpg
-[image2]: http://ww2.sinaimg.cn/large/006mIeATjw1f2066r7ohtj30ae0abjrp.jpg
-[image3]: http://ww2.sinaimg.cn/large/006mIeATjw1f21al4ur29j30a30aa0t7.jpg
+[image1]: images/4-1.jpg
+[image2]: images/4-2.jpg
+[image3]: images/4-3.jpg
